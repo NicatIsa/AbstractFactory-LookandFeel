@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LookandFeel", "LookandFeel\LookandFeel.csproj", "{0622F041-C0CA-4B17-A80D-98797EF4C9B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0622F041-C0CA-4B17-A80D-98797EF4C9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0622F041-C0CA-4B17-A80D-98797EF4C9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0622F041-C0CA-4B17-A80D-98797EF4C9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0622F041-C0CA-4B17-A80D-98797EF4C9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2375F2D1-FA46-4ABE-8AA7-B25990EFAA02}
+	EndGlobalSection
+EndGlobal
